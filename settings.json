@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "renteville1.aternos.me",
-    "port": 50401,
+    "ip": "renteville4.aternos.me,
+    "port": 20797,
     "version": "1.21.1"
   },
   "position": {
